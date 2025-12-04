@@ -26,8 +26,8 @@ body {
 }
 
 .avatar {
-    width: 240px;
-    height: 240px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 20px;
@@ -35,7 +35,7 @@ body {
 
 .name {
     margin: 0;
-    font-size: 70px;
+    font-size: 55px;
     font-weight: bold;
     color: #222;
 }
@@ -53,7 +53,7 @@ body {
     color: white;
     text-decoration: none;
     padding: 15px 28px;
-    font-size: 37px;
+    font-size: 30px;
     border-radius: 12px;
     transition: 0.2s ease;
 }
@@ -67,7 +67,7 @@ body {
     margin-top: 25px;
     text-decoration: none;
     color: #6c63ff;
-    font-size: 36px;
+    font-size:30px;
 }
 
 .link:hover {
@@ -104,17 +104,18 @@ body {
 
 .adv-card p {
     color: #555;
-    font-size: 45px;
+    font-size: 40px;
 }
 
 .back {
     margin: 30px 0 40px 0;
     color: #6c63ff;
     text-decoration: none;
-    font-size: 58px;
+    font-size: 50px;
 }
 
 .back:hover {
     color: #4a45c6;
 }
+
 
